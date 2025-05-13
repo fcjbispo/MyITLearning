@@ -8,7 +8,7 @@ Siga o plano de ensino detalhado no arquivo `plano_treinamento.md`. Este plano c
 
 Crie e mantenha uma estrutura de pastas organizada para armazenar os conteúdos do curso e os artefatos do projeto em desenvolvimento. Exemplo:
 
-- `/curso_full_stack`
+- `/curso_full_stack_js`
   - `/modulo_1_introducao`
     - `/aulas`
     - `/exercicios`
