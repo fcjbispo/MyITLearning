@@ -1,0 +1,19 @@
+[
+  {
+    "nome": "Desenvolvedor Full-Stack",
+    "descricao": "Este plano de treinamento foi projetado para transformá-lo em um desenvolvedor fullstack, atualizando suas habilidades em JavaScript moderno, ensinando frameworks como React, e integrando conceitos de UX, design de frontend e ferramentas de IA.",
+    "numero_sessoes": 8,
+    "principais_assuntos": [
+      "JavaScript Moderno (ES6+)",
+      "Fundamentos de Node.js",
+      "Aprendizado de React (Framework Frontend)",
+      "Ferramentas de Build e Otimização",
+      "Conceitos Básicos de UX e Design de Frontend",
+      "Conceitos Intermediários de UX e Design de Frontend",
+      "Integração com Ferramentas de IA",
+      "Projetos Práticos"
+    ],
+    "caminho_pasta": "curso_full_stack",
+    "caminho_plano": "curso_full_stack/plano_treinamento.md"
+  }
+]
