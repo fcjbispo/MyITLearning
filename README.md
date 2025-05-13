@@ -2,6 +2,14 @@
 
 This repository contains the materials and guidance for a comprehensive Full-Stack Developer training program. The goal is to guide learners through modern JavaScript, frontend development (React), backend development (Node.js), UX/Design fundamentals, and integration with AI tools.
 
+This course will use itself as a case study for the training program. The goal is to, when trainging, create a single platform for IT training Generative AI developers in unknown areas in order to be familiar with the AI Agents working on developmend stacks, or else, the final project of the course its own training platform.
+
+This project aims to be a self-training platform to gather missing skills to use when developing with AI Agents support.
+
+## Why this project?
+
+This was a personal need, once I lack some JavaScript and NodeJS knowledge due my experience on JavaScript remains from its beginning on later 2000s. 
+
 ## Project Structure
 
 - `/curso_full_stack`: Contains the training modules, lessons, exercises, and projects.
@@ -9,6 +17,10 @@ This repository contains the materials and guidance for a comprehensive Full-Sta
 - `cursos.json`: An index of available training programs.
 - `guia.md`: The main guide and instructions for the AI agent facilitating the training.
 - `plano_treinamento.md`: The detailed training plan (located inside `/curso_full_stack`).
+
+## Tools
+
+- This project is being developed using [Visual Studio Code](https://code.visualstudio.com/) with support of Roo Code Assistant with local LLM via LMStudio and Google's Gemini edge free models.
 
 ## Getting Started
 
